@@ -34,3 +34,4 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+.yarn/unplugged/@next-swc-darwin-x64-npm-14.0.4-95a34715b9/node_modules/@next/swc-darwin-x64/next-swc.darwin-x64.node
